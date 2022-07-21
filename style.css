@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#heading{
+    background-color:grey;
+    color:white;
+    margin: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h3{
+    background-color:grey;
+    margin: 0px;
+    padding-bottom: 5px;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+input{
+    width: 20%;
+    text-align: center;
+    border: 2px solid black;
+    height: 4%;
+    color: black;
+
+}
+input:focus {
+    border: 3px solid #555;
+    background-color: lightblue;
+  }
+  #start{
+      width: 100px;
+      height: 40px;
+      font-size: 18px;
+      border: 2px solid rgb(238, 235, 235);
+  }
+  #start:hover{
+    width: 105px;
+    height: 45px;
+    font-size: 20px;
+  }
+canvas{
+    background-color:navy;
+    border-radius: 5px;
+    border:3px black solid;
+    box-shadow: 3px 3px 3px lightskyblue;
+    margin-top:150px;
+}
